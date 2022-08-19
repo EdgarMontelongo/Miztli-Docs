@@ -1,6 +1,6 @@
 
 Documentacion de Miztli
-=======================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 EN CONSTRUCCION
 
@@ -10,6 +10,8 @@ EN CONSTRUCCION
 
    Antecedentes
 
+Uso
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. toctree::
    :Caption: Uso de software de Miztli
 
