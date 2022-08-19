@@ -2,6 +2,8 @@
 Documentacion de Miztli
 =======================================
 
+EN CONSTRUCCION
+
 .. toctree::
 
    :caption: Antecedentes
@@ -9,7 +11,7 @@ Documentacion de Miztli
    Antecedentes
 
 .. toctree::
-   :Caption: Uso de software de miztli
+   :Caption: Uso de software de Miztli
 
    UsoMiztli
 
