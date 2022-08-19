@@ -1,9 +1,8 @@
 .. :toctree::
    :maxdepth: 2
 Indice
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+================================
 
-EN CONSTRUCCION
 Antecedentes
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 .. toctree::
