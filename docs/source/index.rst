@@ -1,10 +1,11 @@
 .. :toctree::
    :maxdepth: 2
-Documentacion de Miztli
+Indice
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 EN CONSTRUCCION
-
+Antecedentes
+~~~~~~~~~~~~~~~~~~~~~~~~~
 .. toctree::
    :maxdepth: 2
    :caption: Antecedentes
